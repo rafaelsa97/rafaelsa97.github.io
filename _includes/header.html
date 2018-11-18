@@ -6,8 +6,16 @@
 <!-- Nav -->
 	<nav id="nav">
 		<ul class="links">
-			<li><a href="index.html">Blog</a></li>
-			<li class="active"><a href="generic.html">Sobre Mim</a></li>
+			{% if page.url == "/" %}
+   				<li class="active"><a href="index.html">Blog</a></li>
+				<li><a href="generic.html">Sobre Mim</a></li>
+   			{% elsif page.url == "/aboutme.html" %}
+   				<li><a href="index.html">Blog</a></li>
+				<li class="active"><a href="generic.html">Sobre Mim</a></li>
+			{% else %}
+   				<li><a href="index.html">Blog</a></li>
+   				<li><a href="generic.html">Sobre Mim</a></li>
+			{% endif %}
 		</ul>
 		<ul class="icons">
 			<li><a href="https://github.com/rafaelsa97" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
