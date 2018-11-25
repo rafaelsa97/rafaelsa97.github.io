@@ -3312,7 +3312,7 @@ input, select, textarea {
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
 			color: #212931;
-			background-color: rgba(255,255,255,0.40);
+			background-color: rgba(255,255,255,0.70);
 		}
 
 		#intro blockquote {
@@ -3375,7 +3375,7 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
-			background-color: rgba(255,255,255,0.40);
+			background-color: rgba(255,255,255,0.70);
 		}
 
 		#intro + #header {
