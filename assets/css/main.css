@@ -3221,11 +3221,13 @@ input, select, textarea {
 			z-index: -1;
 		}
 
+
 			#wrapper > .bg.fixed {
 				position: fixed;
 				width: 100vw;
 				height: 100vh;
 			}
+
 
 		#wrapper.fade-in:before {
 			pointer-events: none;
@@ -3255,7 +3257,7 @@ input, select, textarea {
 		@media screen and (orientation: portrait) {
 
 			#wrapper > .bg {
-				background-size: auto,								auto,														auto 175%;
+				background-size: auto,								auto,														auto 110%;
 			}
 
 		}
