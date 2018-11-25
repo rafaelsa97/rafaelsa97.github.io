@@ -3416,6 +3416,7 @@ input, select, textarea {
 				transform: translateY(0);
 				opacity: 1;
 				visibility: visible;
+				background-color: rgba(255,255,255,0.40);
 			}
 
 		body.is-preload #intro {
@@ -3559,6 +3560,7 @@ input, select, textarea {
 			padding: 1rem 1.75rem;
 			text-transform: uppercase;
 			visibility: visible;
+			background-color: rgba(255,255,255,0.40);
 		}
 
 			#header .logo:hover {
