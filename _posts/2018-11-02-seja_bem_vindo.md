@@ -5,7 +5,8 @@ date: 2018-11-02 12:00:00
 author: Rafael Almeida
 permalink: blog/seja_bem_vindo.html
 description: asdfasf
-postImage: /images/postImages/rsz_welcome-home.jpg
+image: /images/postImages/rsz_welcome-home.jpg
+comments: true
 ---
 
 Olá, eu sou o Rafael! Se está lendo isso, saiba que é com uma imensa alegria que a (o) recebo neste site! Este é um projeto idealizado há anos (pelo menos uns dois) e que finalmente ganha vida.
