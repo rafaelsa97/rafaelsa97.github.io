@@ -7,4 +7,4 @@ title: "About Me"
 slogan: "Sobre Mim"
 ---
 
-Olá! Esta é a página inicial do meu site
+Olá! Este é o about me do meu site
