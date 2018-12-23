@@ -17,9 +17,7 @@ title: "About Me"
 
 I am a **Control and Automation Engineering student** at [**Federal University of Minas Gerais**](https://ufmg.br/international-visitors), Brazil.  
 Currently engaged as **Research & Development Intern** at [Concert Technologies](http://www.concert.com.br). Member at **Autobotz UFMG**, robotics competition team from [**MACRO (Mechatronics, Control and Robotics)**](http://macro.ppgee.ufmg.br/).  
-• **Main interests:** robotics, hardware description and IA.
-
-## Timeline
+• **Main interests:** robotics, hardware description and IA.  
 **2018**  
 I started working at [**Concert Technologies**](http://www.concert.com.br) as a research & development intern, working on innovative projects related to distributed energy storage, transmission and fault location.  
 **2016**  
