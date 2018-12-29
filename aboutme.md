@@ -22,7 +22,7 @@ Currently engaged as **Research & Development Intern** at [Concert Technologies]
 I started working at [**Concert Technologies**](http://www.concert.com.br) as a research & development intern, working on innovative projects related to distributed energy storage, transmission and fault location.  
 **2016**  
 <span class="image right"><img src="images/aboutme/autobotzTeam2.jpg" alt=""></span>
-1st and 2nd place on **Campus Party MG** competition
+• 1st and 2nd place on **Campus Party MG** competition  
 I started working at Autobotz, robotics competition team from [**MACRO (Mechatronics, Control and Robotics)**](http://macro.ppgee.ufmg.br/) laboratories at [UFMG](https://ufmg.br/international-visitors).  
 The main projects I was involved was a high performance line following robot, mechanical and electronic design for an autonomous boat robot and navigation algorithms for an autonomous vehicle targeted to [Robocup Junior Rescue Competition](http://www.robocup2016.org/en/leagues/robocupjunior/rescue/) based challenge.  
 Also, I presented a lecture called [**MACRO - Mecatrônica, Controle e Robótica**](https://youtu.be/1u-GuFnk6ME), telling about the Autobotz robots and projects developed by our team.

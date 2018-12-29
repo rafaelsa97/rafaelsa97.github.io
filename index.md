@@ -5,5 +5,3 @@
 layout: home
 slogan: Arts, Coffe and Engineering
 ---
-
-Olá! Esta é a página inicial do meu site de testes
