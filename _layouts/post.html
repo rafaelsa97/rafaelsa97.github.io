@@ -7,6 +7,6 @@ layout: default
     <h1>{%- if page.title -%} {{ page.title }}{%- endif -%}</h1>
   </header>
   <div class="image main"><img src="{{ page.image }}" alt="" /></div>
-  <p class="legenda-foto"><i>"Welcome Home", por <a href="https://daylongdaydreams.com/">Amanda Kritzberg</a></i></p>
+  <p class="legenda-foto"><i>"{{ page.imageName }}", por  {%- if page.imageLink -%}<a href="{{ page.imageLink }}"> {{ page.imageAuthor }}</a>{% else %} {{ page.imageAuthor }}{%- endif -%}</i></p>
   {{ content }}
 </section>

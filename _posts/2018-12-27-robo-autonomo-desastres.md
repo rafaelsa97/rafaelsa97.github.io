@@ -4,8 +4,10 @@ title: "Robô Autônomo para Resgate em Situações de Desastre"
 date: 2018-12-27 12:00:00
 author: Rafael Almeida
 permalink: blog/robo_autonomo_desastre.html
-description: asdfasf
+description: Algoritmo de navegação para robô autônomo de resgate
 image: /images/postImages/roboAutonomo/Incendie_a_Rome.jpg
+imageName: Incêndio de Roma
+imageAuthor: Hubert Robert
 comments: true
 ---
 
@@ -17,8 +19,6 @@ comments: true
     width: 50%;
 }
 </style>
-
-O Incêndio de Roma, por Hubert Robert.
 
 Dia 02 de Setembro de 2018. Às 19:30h, após o fechamento para visitação, [um incêndio é identificado no maior museu de história natural do Brasil](https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/09/04/o-que-se-sabe-sobre-o-incendio-no-museu-nacional-no-rio.ghtml): o [Museu Nacional](http://www.museunacional.ufrj.br/), localizado na cidade do Rio de Janeiro. A instituição contava com inúmeras peças como fósseis, múmias, exemplares de animais raros (alguns deles peças únicas no planeta) entre muitos outros itens irreparáveis, perdidos no maior desastre científico de nossa história. A situação era tão calamitosa que até mesmo as equipes de busca sentiram dificuldades no combate ao incêndio e no resgate, como relatado por [bombeiros que se feriram na tentativa de retirar o crânio de Luzia](https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/09/04/bombeiro-diz-que-se-queimou-ao-tentar-resgatar-luzia-no-museu-nacional.ghtml), o fóssil humano mais antigo encontrado na América do Sul. A fim de evitarmos risco aos seres humanos e atuar de forma mais eficiente em situações semelhantes, uma das alternativas seria o uso de veículos autônomos desenvolvidos para resgate de objetos e vítimas. Pensando nisso, desenvolvi algoritmos de navegação a serem embarcados em um robô em um cenário simulado semelhante, descritos logo a seguir.
 

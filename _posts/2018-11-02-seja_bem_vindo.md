@@ -4,8 +4,11 @@ title: "Seja Bem-Vindo"
 date: 2018-11-02 12:00:00
 author: Rafael Almeida
 permalink: blog/seja_bem_vindo.html
-description: asdfasf
+description: Se de tudo fica um pouco, mas por que não ficaria um pouco de mim?
 image: /images/postImages/rsz_welcome-home.jpg
+imageName: Welcome Home
+imageAuthor: Amanda Kritzberg
+imageLink: https://daylongdaydreams.com/
 comments: true
 ---
 
