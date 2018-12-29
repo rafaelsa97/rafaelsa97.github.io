@@ -13,7 +13,7 @@ title: "About Me"
     width: 50%;
 }
 </style>
-<img id="imageCenter" src="images/aboutme/rafael.jpg" alt="">
+<img id="imageCenter" src="images/aboutme/rafael.jpg" alt="Rafael">
 
 I am a **Control and Automation Engineering student** at [**Federal University of Minas Gerais**](https://ufmg.br/international-visitors), Brazil.  
 Currently engaged as **Research & Development Intern** at [Concert Technologies](http://www.concert.com.br). Member at **Autobotz UFMG**, robotics competition team from [**MACRO (Mechatronics, Control and Robotics)**](http://macro.ppgee.ufmg.br/).  
