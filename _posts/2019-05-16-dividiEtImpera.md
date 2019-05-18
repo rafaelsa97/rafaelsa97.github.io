@@ -43,3 +43,5 @@ Por fim, até mesmo na área de análise de sinais a simplificação pela divis�
 <center>A Transformada Z</center>  
 
 Como é possível observar, a quebra de problemas grandes e complexos permeia inúmeros casos em situações que muitas vezes nem percebemos, otimizando tarefas a princípio difíceis demais de serem resolvidos. Podemos utilizar este mesmo método das mais diversas formas ao nosso favor: dividindo grandes atividades de uma sprint, objetivando a produção de pequenas entregas por vez, realizando testes a cada pequeno conjunto de código implementado, definindo meios de dividir determinada funcionalidade, escrevendo métodos mais enxutos que executam uma única tarefa, modularizando o código de uma aplicação… __Não há tarefas que não possam ser fragmentadas__. Há inúmeras possibilidades, bastando que se adapte ao nosso cotidiano (e por que não até mesmo em nossa vida?). Afinal, __dividir também é multiplicar__!
+
+*Um agradecimento especial ao amigo [Henrique Dutra](https://www.linkedin.com/in/henrique-dutra-monteiro/) pelas referências!*
